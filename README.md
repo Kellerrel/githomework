@@ -6,3 +6,4 @@
 - Today is Monday.
 - Today is Tuesday. 
 - Today is Wednesday.
+- Today in Thursday.
