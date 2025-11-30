@@ -9,4 +9,5 @@
 - Today is Thursday.
 - Today is Friday.
 - Today is Satuday.
+- Today is Sunday. 
   
